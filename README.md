@@ -2,8 +2,6 @@
 
 A sleek and responsive **Todo List App** built with **React**. This app helps you stay organized and boost productivity with task management features like adding, editing, completing, and deleting todos — all with a modern user interface.
 
-![React TodoApp Screenshot](https://your-image-link.com/todoapp-screenshot.png)
-
 ---
 
 ## 🧠 Key Features
